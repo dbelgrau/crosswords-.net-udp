@@ -1,0 +1,46 @@
+﻿<Page x:Class="Crosswords.GamePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Crosswords"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="GameWindow">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="560"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid x:Name="CrosswordGrid" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+            </Grid.RowDefinitions>
+
+        </Grid>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            
+            <Grid Grid.Row="0">
+                <TextBlock Text="{Binding ResultsText}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30"/>
+            </Grid>
+            
+            <Grid x:Name="DescriptionGrid" Grid.Row="1">
+                <Grid.RowDefinitions>
+                </Grid.RowDefinitions>
+
+            </Grid>
+        </Grid>
+
+        
+
+    </Grid>
+</Page>

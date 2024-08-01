@@ -1,0 +1,155 @@
+[
+  {
+    "word": "krew",
+    "startPoint": {
+      "x": 2,
+      "y": 2
+    },
+    "horizontal": true,
+    "description": "Płynie w żyłach"
+  },
+  {
+    "word": "drzewo",
+    "startPoint": {
+      "x": 3,
+      "y": 1
+    },
+    "horizontal": false,
+    "description": "Np. lipa albo dąb"
+  },
+  {
+    "word": "wrota",
+    "startPoint": {
+      "x": 5,
+      "y": 2
+    },
+    "horizontal": false,
+    "description": "Piekieł"
+  },
+  {
+    "word": "bekon",
+    "startPoint": {
+      "x": 2,
+      "y": 4
+    },
+    "horizontal": true,
+    "description": "Inaczej boczek"
+  },
+  {
+    "word": "tarka",
+    "startPoint": {
+      "x": 4,
+      "y": 6
+    },
+    "horizontal": false,
+    "description": "Utrzesz na niej ser"
+  },
+  {
+    "word": "kwiat",
+    "startPoint": {
+      "x": 1,
+      "y": 6
+    },
+    "horizontal": false,
+    "description": "Zamienia się w owoc"
+  },
+  {
+    "word": "kwota",
+    "startPoint": {
+      "x": 1,
+      "y": 6
+    },
+    "horizontal": true,
+    "description": "Zamienia się w owoc"
+  },
+  {
+    "word": "apokalipsa",
+    "startPoint": {
+      "x": 1,
+      "y": 9
+    },
+    "horizontal": true,
+    "description": "Koniec świata"
+  },
+  {
+    "word": "rodak",
+    "startPoint": {
+      "x": 9,
+      "y": 1
+    },
+    "horizontal": true,
+    "description": "Z tego samego narodu"
+  },
+  {
+    "word": "dwa",
+    "startPoint": {
+      "x": 11,
+      "y": 1
+    },
+    "horizontal": false,
+    "description": "Po jeden"
+  },
+  {
+    "word": "gapa",
+    "startPoint": {
+      "x": 10,
+      "y": 3
+    },
+    "horizontal": true,
+    "description": "Niezdara, ciamajda"
+  },
+  {
+    "word": "grotołaz",
+    "startPoint": {
+      "x": 10,
+      "y": 3
+    },
+    "horizontal": false,
+    "description": "Chodzi po jaskiniach"
+  },
+  {
+    "word": "prosto",
+    "startPoint": {
+      "x": 8,
+      "y": 5
+    },
+    "horizontal": true,
+    "description": "Nie krzywo"
+  },
+  {
+    "word": "troska",
+    "startPoint": {
+      "x": 8,
+      "y": 7
+    },
+    "horizontal": true,
+    "description": "Dbałość, opieka"
+  },
+  {
+    "word": "potok",
+    "startPoint": {
+      "x": 12,
+      "y": 3
+    },
+    "horizontal": false,
+    "description": "Mała rzeka"
+  },
+  {
+    "word": "potop",
+    "startPoint": {
+      "x": 8,
+      "y": 5
+    },
+    "horizontal": false,
+    "description": "Szwedzki w XVII wieku"
+  },
+  {
+    "word": "arka",
+    "startPoint": {
+      "x": 13,
+      "y": 7
+    },
+    "horizontal": false,
+    "description": "Noego"
+  }
+]
